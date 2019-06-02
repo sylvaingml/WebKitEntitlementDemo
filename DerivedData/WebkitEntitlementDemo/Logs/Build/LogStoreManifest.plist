@@ -5,6 +5,615 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>08C88135-6E89-449B-A4D2-D70E538812E4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>08C88135-6E89-449B-A4D2-D70E538812E4.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WebkitEntitlementDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WebkitEntitlementDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean WebkitEntitlementDemo</string>
+			<key>timeStartedRecording</key>
+			<real>581199002.76133394</real>
+			<key>timeStoppedRecording</key>
+			<real>581199002.80684996</real>
+			<key>title</key>
+			<string>Clean WebkitEntitlementDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>08C88135-6E89-449B-A4D2-D70E538812E4</string>
+		</dict>
+		<key>09DF1EB0-7DF2-47FB-9914-D475A7833215</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>09DF1EB0-7DF2-47FB-9914-D475A7833215.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WebkitEntitlementDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WebkitEntitlementDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>timeStartedRecording</key>
+			<real>581200002.84639704</real>
+			<key>timeStoppedRecording</key>
+			<real>581200002.93836296</real>
+			<key>title</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>09DF1EB0-7DF2-47FB-9914-D475A7833215</string>
+		</dict>
+		<key>1FC3C5BA-B969-432D-9689-3FFD2716EF47</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1FC3C5BA-B969-432D-9689-3FFD2716EF47.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WebkitEntitlementDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WebkitEntitlementDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>timeStartedRecording</key>
+			<real>581200322.03037703</real>
+			<key>timeStoppedRecording</key>
+			<real>581200323.63637698</real>
+			<key>title</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>1FC3C5BA-B969-432D-9689-3FFD2716EF47</string>
+		</dict>
+		<key>281ACD6C-C7F2-4F0D-838D-86C2EEE351EF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>281ACD6C-C7F2-4F0D-838D-86C2EEE351EF.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WebkitEntitlementDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WebkitEntitlementDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean WebkitEntitlementDemo</string>
+			<key>timeStartedRecording</key>
+			<real>581198990.14646995</real>
+			<key>timeStoppedRecording</key>
+			<real>581198990.21072602</real>
+			<key>title</key>
+			<string>Clean WebkitEntitlementDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>281ACD6C-C7F2-4F0D-838D-86C2EEE351EF</string>
+		</dict>
+		<key>486F362B-92BA-40C6-A664-5FA606789E74</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>486F362B-92BA-40C6-A664-5FA606789E74.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WebkitEntitlementDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WebkitEntitlementDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>timeStartedRecording</key>
+			<real>581199814.15362895</real>
+			<key>timeStoppedRecording</key>
+			<real>581199815.66464996</real>
+			<key>title</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>486F362B-92BA-40C6-A664-5FA606789E74</string>
+		</dict>
+		<key>4F0E5E4D-A6E3-4641-B952-CF9532B4186E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4F0E5E4D-A6E3-4641-B952-CF9532B4186E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WebkitEntitlementDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WebkitEntitlementDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>timeStartedRecording</key>
+			<real>581199872.89804304</real>
+			<key>timeStoppedRecording</key>
+			<real>581199872.98970401</real>
+			<key>title</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>4F0E5E4D-A6E3-4641-B952-CF9532B4186E</string>
+		</dict>
+		<key>5ACAC99C-6266-46E1-AFB7-6CF5FC37509B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5ACAC99C-6266-46E1-AFB7-6CF5FC37509B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WebkitEntitlementDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WebkitEntitlementDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>timeStartedRecording</key>
+			<real>581201055.08505702</real>
+			<key>timeStoppedRecording</key>
+			<real>581201055.30931199</real>
+			<key>title</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>5ACAC99C-6266-46E1-AFB7-6CF5FC37509B</string>
+		</dict>
+		<key>5EF24583-D826-44E0-B776-EF8F245A04A3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5EF24583-D826-44E0-B776-EF8F245A04A3.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WebkitEntitlementDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WebkitEntitlementDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>timeStartedRecording</key>
+			<real>581199925.88001001</real>
+			<key>timeStoppedRecording</key>
+			<real>581199925.97783995</real>
+			<key>title</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>5EF24583-D826-44E0-B776-EF8F245A04A3</string>
+		</dict>
+		<key>6C0A92EE-BA24-4640-8BE3-56D289BD46D9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6C0A92EE-BA24-4640-8BE3-56D289BD46D9.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WebkitEntitlementDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WebkitEntitlementDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>timeStartedRecording</key>
+			<real>581201027.05029202</real>
+			<key>timeStoppedRecording</key>
+			<real>581201031.00978899</real>
+			<key>title</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>6C0A92EE-BA24-4640-8BE3-56D289BD46D9</string>
+		</dict>
+		<key>8E35032A-DFB9-4CA9-BB7E-D230169AB677</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8E35032A-DFB9-4CA9-BB7E-D230169AB677.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WebkitEntitlementDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WebkitEntitlementDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>timeStartedRecording</key>
+			<real>581200943.87130702</real>
+			<key>timeStoppedRecording</key>
+			<real>581200944.53768599</real>
+			<key>title</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>8E35032A-DFB9-4CA9-BB7E-D230169AB677</string>
+		</dict>
+		<key>964EE33D-8EBF-41A6-A480-1AF5FB9B48D4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>964EE33D-8EBF-41A6-A480-1AF5FB9B48D4.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WebkitEntitlementDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WebkitEntitlementDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>timeStartedRecording</key>
+			<real>581199847.51063395</real>
+			<key>timeStoppedRecording</key>
+			<real>581199847.60927796</real>
+			<key>title</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>964EE33D-8EBF-41A6-A480-1AF5FB9B48D4</string>
+		</dict>
+		<key>9DB7B978-A12D-4299-B445-E8AB7D17E204</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9DB7B978-A12D-4299-B445-E8AB7D17E204.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WebkitEntitlementDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WebkitEntitlementDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze WebkitEntitlementDemo</string>
+			<key>timeStartedRecording</key>
+			<real>581201047.51300597</real>
+			<key>timeStoppedRecording</key>
+			<real>581201049.42121804</real>
+			<key>title</key>
+			<string>Analyze WebkitEntitlementDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>9DB7B978-A12D-4299-B445-E8AB7D17E204</string>
+		</dict>
+		<key>B20BD9D6-6AC4-405C-A36E-17795AB8778C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B20BD9D6-6AC4-405C-A36E-17795AB8778C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WebkitEntitlementDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WebkitEntitlementDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>timeStartedRecording</key>
+			<real>581199824.85204005</real>
+			<key>timeStoppedRecording</key>
+			<real>581199825.55891097</real>
+			<key>title</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>B20BD9D6-6AC4-405C-A36E-17795AB8778C</string>
+		</dict>
+		<key>B833AD6D-428E-4B8D-A9C6-0A3BAA338F66</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B833AD6D-428E-4B8D-A9C6-0A3BAA338F66.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WebkitEntitlementDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WebkitEntitlementDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>timeStartedRecording</key>
+			<real>581199840.83171499</real>
+			<key>timeStoppedRecording</key>
+			<real>581199842.84128106</real>
+			<key>title</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>B833AD6D-428E-4B8D-A9C6-0A3BAA338F66</string>
+		</dict>
+		<key>D1F0E03A-D60D-4137-B76F-4037725EA700</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D1F0E03A-D60D-4137-B76F-4037725EA700.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WebkitEntitlementDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WebkitEntitlementDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>timeStartedRecording</key>
+			<real>581200908.947281</real>
+			<key>timeStoppedRecording</key>
+			<real>581200912.63362396</real>
+			<key>title</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>D1F0E03A-D60D-4137-B76F-4037725EA700</string>
+		</dict>
+		<key>D400258A-52B8-463D-B285-7469F0404D3A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D400258A-52B8-463D-B285-7469F0404D3A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WebkitEntitlementDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WebkitEntitlementDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze WebkitEntitlementDemo</string>
+			<key>timeStartedRecording</key>
+			<real>581199003.11088705</real>
+			<key>timeStoppedRecording</key>
+			<real>581199011.82359695</real>
+			<key>title</key>
+			<string>Analyze WebkitEntitlementDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>D400258A-52B8-463D-B285-7469F0404D3A</string>
+		</dict>
+		<key>DBEFFA2E-F9C4-48D3-929F-88D80A4D6370</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DBEFFA2E-F9C4-48D3-929F-88D80A4D6370.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WebkitEntitlementDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WebkitEntitlementDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>timeStartedRecording</key>
+			<real>581199038.43366301</real>
+			<key>timeStoppedRecording</key>
+			<real>581199038.68898594</real>
+			<key>title</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>DBEFFA2E-F9C4-48D3-929F-88D80A4D6370</string>
+		</dict>
+		<key>E3F66E18-263B-4A8F-BA25-F7B15E31EB02</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E3F66E18-263B-4A8F-BA25-F7B15E31EB02.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WebkitEntitlementDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WebkitEntitlementDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>timeStartedRecording</key>
+			<real>581198926.29987097</real>
+			<key>timeStoppedRecording</key>
+			<real>581198927.96418905</real>
+			<key>title</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>E3F66E18-263B-4A8F-BA25-F7B15E31EB02</string>
+		</dict>
+		<key>FA16EA27-B2F4-4F4A-9DC9-6328AA4045FD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FA16EA27-B2F4-4F4A-9DC9-6328AA4045FD.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WebkitEntitlementDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WebkitEntitlementDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>timeStartedRecording</key>
+			<real>581199889.81674695</real>
+			<key>timeStoppedRecording</key>
+			<real>581199889.91839397</real>
+			<key>title</key>
+			<string>Build WebkitEntitlementDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>FA16EA27-B2F4-4F4A-9DC9-6328AA4045FD</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

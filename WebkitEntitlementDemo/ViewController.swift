@@ -7,21 +7,25 @@
 //
 
 import Cocoa
+import WebKit
 
 class ViewController: NSViewController {
 
+  @IBOutlet var webView: WKWebView!
+    
   override func viewDidLoad() {
     super.viewDidLoad()
-
-    // Do any additional setup after loading the view.
+    
+    if let url = URL.init(string: "https://www.Automatisez.net/") {
+      let myRequest = URLRequest(url: url)
+      webView.load(myRequest)
+    }
   }
 
   override var representedObject: Any? {
     didSet {
-    // Update the view, if already loaded.
+    
     }
   }
-
-
 }
 
