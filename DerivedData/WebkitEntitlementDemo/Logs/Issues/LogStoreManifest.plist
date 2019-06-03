@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>547CFB2D-BA97-4C01-B58A-420972C3A427</key>
+		<key>F34BA865-3A37-422B-BBC1-74EEC2E223DF</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>547CFB2D-BA97-4C01-B58A-420972C3A427.xcactivitylog</string>
+			<string>F34BA865-3A37-422B-BBC1-74EEC2E223DF.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -24,13 +24,13 @@
 			<key>signature</key>
 			<string>WebkitEntitlementDemo-biyvdazikjwfxwgejapytraddxem</string>
 			<key>timeStartedRecording</key>
-			<real>581201055.11854506</real>
+			<real>581203000.480335</real>
 			<key>timeStoppedRecording</key>
-			<real>581201055.24822605</real>
+			<real>581203000.61092806</real>
 			<key>title</key>
 			<string>Build target WebkitEntitlementDemo</string>
 			<key>uniqueIdentifier</key>
-			<string>547CFB2D-BA97-4C01-B58A-420972C3A427</string>
+			<string>F34BA865-3A37-422B-BBC1-74EEC2E223DF</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>
